@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ab7a4c2eb90bdcf5dd2828db0942f43f",
+    "revision": "72cee4df2f13f36f1a5b1e1dc02901a1",
     "url": "/klim/index.html"
   },
   {
-    "revision": "aa8d2ad3eab7b27c4c5a",
+    "revision": "05d42fe683f4202dbfef",
     "url": "/klim/static/css/main.47553e51.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/klim/static/js/2.53fafbf3.chunk.js.LICENSE"
   },
   {
-    "revision": "aa8d2ad3eab7b27c4c5a",
-    "url": "/klim/static/js/main.dc118192.chunk.js"
+    "revision": "05d42fe683f4202dbfef",
+    "url": "/klim/static/js/main.f1d44f73.chunk.js"
   },
   {
     "revision": "d04ac266c16bf87006ba",

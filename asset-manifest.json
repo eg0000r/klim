@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/klim/static/css/main.47553e51.chunk.css",
-    "main.js": "/klim/static/js/main.dc118192.chunk.js",
-    "main.js.map": "/klim/static/js/main.dc118192.chunk.js.map",
+    "main.js": "/klim/static/js/main.f1d44f73.chunk.js",
+    "main.js.map": "/klim/static/js/main.f1d44f73.chunk.js.map",
     "runtime-main.js": "/klim/static/js/runtime-main.1a0e4479.js",
     "runtime-main.js.map": "/klim/static/js/runtime-main.1a0e4479.js.map",
     "static/js/2.53fafbf3.chunk.js": "/klim/static/js/2.53fafbf3.chunk.js",
     "static/js/2.53fafbf3.chunk.js.map": "/klim/static/js/2.53fafbf3.chunk.js.map",
     "index.html": "/klim/index.html",
-    "precache-manifest.90c9b13333f96af1899a2c4986f8b4de.js": "/klim/precache-manifest.90c9b13333f96af1899a2c4986f8b4de.js",
+    "precache-manifest.fd61be1082411ba4614d128b70ad6693.js": "/klim/precache-manifest.fd61be1082411ba4614d128b70ad6693.js",
     "service-worker.js": "/klim/service-worker.js",
     "static/css/main.47553e51.chunk.css.map": "/klim/static/css/main.47553e51.chunk.css.map",
     "static/js/2.53fafbf3.chunk.js.LICENSE": "/klim/static/js/2.53fafbf3.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.1a0e4479.js",
     "static/js/2.53fafbf3.chunk.js",
     "static/css/main.47553e51.chunk.css",
-    "static/js/main.dc118192.chunk.js"
+    "static/js/main.f1d44f73.chunk.js"
   ]
 }
